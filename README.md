@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏛 Library Management System
 
 A modern, full-featured Library Management System built with **Python** and **Streamlit**. This application provides a seamless experience for both Library Members and Managers, featuring a "Warm Academic Glassmorphism" UI design.
@@ -68,9 +67,3 @@ Library-Management-System/
 ├── ...
 └── assets/                 # Images and Static Files
 ```
-
----
-*Created by [Mazen Mohamed](https://github.com/Mazzenmohamedd)*
-=======
-# Library-Management-System
->>>>>>> c540f6ef06205c720f4de5b9a99c2121e2f873f6
