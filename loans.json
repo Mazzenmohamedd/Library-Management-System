@@ -1,0 +1,63 @@
+{
+    "mazzenmohamedd367@gmail.com": [
+        {
+            "isbn": "0061052523",
+            "due_date": "2025-12-27",
+            "borrowed_date": "2025-12-13"
+        },
+        {
+            "isbn": "0393020371",
+            "due_date": "2025-12-27",
+            "borrowed_date": "2025-12-13"
+        }
+    ],
+    "mazenabseada@gmail.com": [
+        {
+            "isbn": "039456894X",
+            "due_date": "2025-12-27",
+            "borrowed_date": "2025-12-13"
+        },
+        {
+            "isbn": "0812575482",
+            "due_date": "2025-12-27",
+            "borrowed_date": "2025-12-13"
+        },
+        {
+            "isbn": "0375814248",
+            "due_date": "2025-12-28",
+            "borrowed_date": "2025-12-14"
+        },
+        {
+            "isbn": "0451208080",
+            "due_date": "2025-12-28",
+            "borrowed_date": "2025-12-14"
+        },
+        {
+            "isbn": "0553580388",
+            "due_date": "2025-12-28",
+            "borrowed_date": "2025-12-14"
+        },
+        {
+            "isbn": "0451527747",
+            "due_date": "2025-12-28",
+            "borrowed_date": "2025-12-14"
+        },
+        {
+            "isbn": "0380619458",
+            "due_date": "2025-12-28",
+            "borrowed_date": "2025-12-14"
+        },
+        {
+            "isbn": "0380973839",
+            "due_date": "2025-12-28",
+            "borrowed_date": "2025-12-14"
+        }
+    ],
+    "axani2039@gmail.com": [
+        {
+            "isbn": "0345451260",
+            "due_date": "2025-12-28",
+            "borrowed_date": "2025-12-14"
+        }
+    ]
+}

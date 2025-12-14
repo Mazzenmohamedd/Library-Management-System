@@ -1,0 +1,42 @@
+{
+    "mazenabseada@gmail.com": [
+        {
+            "title": "The Messenger",
+            "author": "JOSEPH GIRZONE",
+            "return_date": "2025-12-14",
+            "fine": 0.0
+        },
+        {
+            "title": "Tree Grows In Brooklyn",
+            "author": "Betty Smith",
+            "return_date": "2025-12-14",
+            "fine": 0.0
+        },
+        {
+            "title": "Frankenstein (Illustrated Classics Series)",
+            "author": "Mary Wollstonecraft Shelley",
+            "return_date": "2025-12-14",
+            "fine": 0.0
+        },
+        {
+            "title": "The Breach",
+            "author": "Brian Kaufman",
+            "return_date": "2025-12-14",
+            "fine": 0.0
+        },
+        {
+            "title": "Love, Medicine and Miracles",
+            "author": "M.D. Bernie S. Siegel",
+            "return_date": "2025-12-14",
+            "fine": 0.0
+        }
+    ],
+    "axani2039@gmail.com": [
+        {
+            "title": "On the Bright Side, I'm Now the Girlfriend of a Sex God: Further Confessions of Georgia Nicolson",
+            "author": "Louise Rennison",
+            "return_date": "2025-12-14",
+            "fine": 0.0
+        }
+    ]
+}
