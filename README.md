@@ -67,6 +67,3 @@ Library-Management-System/
 ├── ...
 └── assets/                 # Images and Static Files
 ```
-
----
-*Created by [Mazen Mohamed](https://github.com/Mazzenmohamedd)*
